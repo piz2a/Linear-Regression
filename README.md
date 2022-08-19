@@ -1,2 +1,2 @@
 # Linear-Regression
-Linear regression implemented only with numpy
+Linear regression implemented without tensorflow or gradient descent algorithm
