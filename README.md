@@ -1,2 +1,2 @@
 # Linear-Regression
-Linear regression implemented without tensorflow or gradient descent algorithm
+Linear regression implemented only with systems of equations without tensorflow or gradient descent algorithms
